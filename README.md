@@ -19,5 +19,5 @@ https://phoenixnap.com/kb/how-to-install-git-windows
 14. Click push
  <br><br>
 Shortcuts: <br>
-Commit -> Control + K
+Commit -> Control + K<br>
 Push -> Shift + Control + K
